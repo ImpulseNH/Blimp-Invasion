@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Turret
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Main Turret
+  - Bomb
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Main Turret
+    uniqueID: 1037125065
+    locked: 0
+  - name: Blimps
+    uniqueID: 1695763295
+    locked: 0
+  - name: Hot Air Balloons
+    uniqueID: 1287467611
+    locked: 0
+  - name: Health Bar
+    uniqueID: 141756999
+    locked: 0
+  - name: Turret Bullets
+    uniqueID: 572376883
+    locked: 0
